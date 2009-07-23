@@ -10,6 +10,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = DF46FF6410181041009220B5 /* iphone_hello_world */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* iphone_hello_world */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iphone_hello_world */,
+		);
 		codeSenseManager = DF46FF7110181046009220B5 /* Code sense */;
 		executables = (
 			DF46FF6410181041009220B5 /* iphone_hello_world */,
@@ -51,12 +54,13 @@
 		argumentStrings = (
 		);
 		autoAttachOnCrash = 1;
-		breakpointsEnabled = 1;
+		breakpointsEnabled = 0;
 		configStateDict = {
 		};
 		customDataFormattersEnabled = 1;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
